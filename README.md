@@ -1,4 +1,4 @@
-# Ansible Role: pve_vm_state
+# Ansible Play: proxmox_vm_state
 
 ## Purpose
 

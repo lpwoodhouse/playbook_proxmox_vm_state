@@ -1,16 +1,17 @@
 # Ansible Role: pve_vm_state
 
-### Homelab Virtual Environment project
+## Purpose
 
-Changes the state of virtual machine guests (eg stopped, restarted) on a ProxmoxVE host
+This play is for changing the power state of a pve hosted virtual machine guest
+(eg stopped, restarted)
 
 ## Requirements
 
-None
+community.general
 
 ## Role Variables
 
-Available variables are listed below, along with default values (see ```defaults/main.yml```)
+Default role variables for the pve_vm_state role are listed below (see ```defaults/main.yml```)
 ```shell
 proxmox_host: 192.168.0.1
 proxmox_user: root@pam

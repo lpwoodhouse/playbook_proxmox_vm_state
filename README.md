@@ -18,7 +18,7 @@ proxmox_user: root@pam
 proxmox_password: password
 vm_guest:
   - name: vm01
-    state: started
+    state: started # options: present,stopped,started,absent,restarted,current
   - ...etc...
 ```
 ## Dependencies

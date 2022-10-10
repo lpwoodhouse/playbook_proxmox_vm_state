@@ -1,10 +1,10 @@
 # Proxmox Change VM Guest Power State
 ![proxmox](https://img.shields.io/badge/-ProxmoxVE-black?style=flat&logo=proxmox)
 [![playbook](https://img.shields.io/badge/Ansible%20Playbook-grey?stype=flat&logo=ansible&logoColor=EE0000)](site.yml)
-![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/proxmox_vm_state)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/proxmox_vm_state)
-![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/proxmox_vm_state)
-[![GitHub](https://img.shields.io/github/license/lpwoodhouse/proxmox_vm_state)](LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/proxmox_vm_stat)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/proxmox_vm_stat)
+![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/proxmox_vm_stae)
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/proxmox_vm_stae)](LICENSE)
 ## Purpose
 
 This play is for changing the power state of a pve hosted virtual machine guest
